@@ -1,0 +1,16 @@
+.navigation{
+    height: 80px;
+}
+.normal-button{
+    background: linear-gradient(
+        180deg,
+        #a4bc46 0%,
+        #85a019 100%);
+}
+.normal-button:hover{
+    color: brown;
+}
+.price{
+    color: coral;
+}
+
